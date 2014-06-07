@@ -1,0 +1,6 @@
+rtl8192cu (4.0.2_9000.20130911-0ev3dev0~0) stable; urgency=low
+
+  * Initial Release.
+  * Latest offical drivers from realtek
+
+ -- David Lechner <david@lechnology.com>  Tue, 25 Mar 2014 23:26:06 -0500
