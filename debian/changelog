@@ -1,4 +1,4 @@
-rtl8192cu (4.0.2_9000.20130911-0ev3dev0~0) stable; urgency=low
+rtl8192cu (4.0.2-9000.20130911-0ev3dev0) stable; urgency=low
 
   * Initial Release.
   * Latest offical drivers from realtek

@@ -5,10 +5,10 @@ Maintainer: David Lechner <david@lechnology.com>
 Build-Depends: debhelper (>= 7)
 Standards-Version: 3.9.4
 
-Package: rtl8192cu-modules-_KVERS_
+Package: rtl8192cu-modules-3.3.0-2-ev3dev
 Architecture: any
 Provides: rtl8192cu-modules
-Description: rtl8192cu series modules for Linux (kernel _KVERS_).
+Description: rtl8192cu series modules for Linux (kernel 3.3.0-2-ev3dev).
  This package contains the set of loadable kernel modules for wireless adapters
  that use the rtl8192cu chipset.
  .
@@ -23,7 +23,7 @@ Description: rtl8192cu series modules for Linux (kernel _KVERS_).
  * RTL8192CUS
  * RTL8192CE-VAU
  .
- This package contains the compiled kernel modules for _KVERS_
+ This package contains the compiled kernel modules for 3.3.0-2-ev3dev
  .
  If you have compiled your own kernel, you will most likely need to build
  your own rtl8192cu-modules. The rtl8192cu-source package has been

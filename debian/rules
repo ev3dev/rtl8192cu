@@ -96,7 +96,7 @@ binary-modules:
 	$(MAKE) KERNEL_DIR=$(KSRC) KVERS=$(KVERS)
 
 	# Install the module
-	dh_install 8188eu.ko lib/modules/$(KVERS)/drivers/net/wireless
+	dh_install 8192cu.ko lib/modules/$(KVERS)/drivers/net/wireless
 
 	dh_install
 	dh_installmodules
